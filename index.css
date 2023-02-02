@@ -86,7 +86,11 @@ body {
     width: 220px;
     height: 40px;
     margin: 12px 20px;
+    cursor: pointer;
 }
+.button:hover {
+    background-color: hsl(160, 54%, 17%);
+  }
 .button figure {
     margin: 0px;
     padding-top: 05px;
